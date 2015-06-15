@@ -1,0 +1,7 @@
+<resources>
+    <string name="sample_image">Sample Image</string>
+    <string name="app_name">CarouselTest</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+</resources>
